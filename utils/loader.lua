@@ -12,5 +12,5 @@ if game.PlaceId == 3101667897 then -- legends of speed
 elseif game.PlaceId == 574407221 then -- super hero tycoon
     loadstring(game:HttpGet("https://raw.githubusercontent.com/bapple4343/LuxHub/refs/heads/main/games/super_hero_tycoon.lua"))()
 else -- universal
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/bapple4343/LuxHub/refs/heads/main/games/universal"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/bapple4343/LuxHub/refs/heads/main/games/universal.lua"))()
 end
