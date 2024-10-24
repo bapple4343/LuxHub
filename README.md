@@ -12,7 +12,11 @@ Run the following script to run Lux:
 
 ## Supported 'tools'
 - Synapse Z
-- Probably most other 'tools'
+- Wave
+- Probably all paid 'tools' and most free ones
 
 Developed by 43apple
+
+https://discord.gg/HFZVZjjhzj
+
 Kavo UI Lib by xHeptc
