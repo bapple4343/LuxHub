@@ -15,3 +15,4 @@ Run the following script to run Lux:
 - Probably most other 'tools'
 
 Developed by 43apple
+Kavo UI Lib by xHeptc
