@@ -1,7 +1,6 @@
---[[
-this is a slightly modified version of the Kavo UI lib
-all credits go to Kavo's creator.
-]]
+-- this is a slightly modified version of the Kavo UI lib
+-- all credits go to Kavo's creator.
+
 local Kavo = {}
 
 local tween = game:GetService("TweenService")
