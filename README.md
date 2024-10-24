@@ -2,7 +2,7 @@
 
 ## Script
 Run the following script to run Lux:
-`loadstring(game:HttpGet("https://raw.githubusercontent.com/bapple4343/LuxHub/refs/heads/main/utils/loader.lua"))()`
+```loadstring(game:HttpGet("https://raw.githubusercontent.com/bapple4343/LuxHub/refs/heads/main/utils/loader.lua"))()```
 
 ## Currently supported games:
 - [Legends of Speed](https://www.roblox.com/games/3101667897/Legends-Of-Speed)
