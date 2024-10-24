@@ -10,4 +10,8 @@ Run the following script to run Lux:
 
 - And many more, since the Universal script works for pretty much any game.
 
+## Supported 'tools'
+- Synapse Z
+- Probably most other 'tools'
+
 Developed by 43apple
