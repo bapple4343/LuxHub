@@ -4,16 +4,18 @@
 Run the following script to run Lux:
 ```loadstring(game:HttpGet("https://raw.githubusercontent.com/bapple4343/LuxHub/refs/heads/main/utils/loader.lua"))()```
 
-## Currently supported games:
+## Officially supported games:
 - [Legends of Speed](https://www.roblox.com/games/3101667897/Legends-Of-Speed)
 - [Super Hero Tycoon](https://www.roblox.com/games/574407221/Super-Hero-Tycoon)
 
-- And many more, since the Universal script works for pretty much any game.
+## Unofficially supported games:
+Lux also should work on most shooter games, using it's aimbot and ESP. The following have been confirmed.
+- Arsenal
 
-## Supported 'tools'
+## Supported executors
 - Synapse Z
 - Wave
-- Probably all paid 'tools' and most free ones
+- Probably all paid executors and most free ones
 
 Developed by 43apple
 
