@@ -1,21 +1,21 @@
 # Lux Multi-Tool
 
-## Script
-Run the following script to run Lux:
+## Script/
+Execute this script to run lux:
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/bapple4343/LuxHub/refs/heads/main/utils/loader.lua"))()
 ```
 
-## Officially supported games:
+## Officially supported games
 - [Legends of Speed](https://www.roblox.com/games/3101667897/Legends-Of-Speed)
 - [Super Hero Tycoon](https://www.roblox.com/games/574407221/Super-Hero-Tycoon)
 
-## Unofficially supported games:
+## Unofficially supported games
 Lux works on most shooter games, using it's aimbot and ESP. The following games have been tested:
-- Arsenal: aimbot and ESP working
-- KAT: ESP working
-- Phantom Forces: not working
-- Rivals: not working
+- Arsenal: <span style="color:green">aimbot and ESP working</span>
+- KAT: <span style="color:green">ESP working</span>
+- Phantom Forces: <span style="color:red">not working</span>
+- Rivals: <span style="color:red">not working</span>
 
 ## Supported executors
 - Synapse Z
