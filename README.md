@@ -9,7 +9,7 @@ Run the following script to run Lux:
 - [Super Hero Tycoon](https://www.roblox.com/games/574407221/Super-Hero-Tycoon)
 
 ## Unofficially supported games:
-Lux also should work on most shooter games, using it's aimbot and ESP. The following games have been tested:
+Lux works on most shooter games, using it's aimbot and ESP. The following games have been tested:
 - Arsenal: aimbot and ESP working
 - KAT: ESP working
 - Phantom Forces: not working
