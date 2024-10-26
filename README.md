@@ -1,6 +1,6 @@
 # Lux Multi-Tool
 
-## Script/
+## Script
 Execute this script to run lux:
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/bapple4343/LuxHub/refs/heads/main/utils/loader.lua"))()
